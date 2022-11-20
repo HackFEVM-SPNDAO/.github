@@ -1,6 +1,6 @@
 # Welcome to SPN DAO
 
-SPN stands for spending. Our team has created a data DAO that empowers consumers to turn their data, in particular, their credit card transaction data, into assets and have true ownership over their data. DAO members could curate and govern how and when the aggregated data could be used. More importantly, by contributing to an evolving data economy governed by the DAO, members will receive tangible financial rewards whenever their data is accessed and processed. 
+SPN stands for spending. Our team has created a data DAO that empowers consumers to turn their data, in particular, their credit card transaction data, into assets and have true ownership over their data. DAO members could curate and govern how and when the crowd-sourced data could be used. More importantly, by contributing to an evolving data economy governed by the DAO, members will receive tangible financial rewards whenever their data is accessed and processed. 
 
 
 ## Problem Statement
