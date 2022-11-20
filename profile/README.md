@@ -36,7 +36,7 @@ When the admin connects to the dApp and authenticates ownership of the “admin 
 
 ## How It's Made
 
-### Jon, please fill in some details about the solutions used for encryption/decryption, Pinanta gateway and Submarine. Please write full sentences instead of bullet points because it's going to be used in the submission.
+### Jon, please fill in some details about the solutions used for encryption/decryption, Pinata gateway and Submarine. Please write full sentences instead of bullet points because it's going to be used in the submission.
 
 ###### Architecture
 
