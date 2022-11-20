@@ -1,9 +1,16 @@
 # Welcome to SPN DAO.
-- ZPDAO - We are building an identity layer for a data DAO leveraging soul-bound tokens, as part of the Hack FEVM 2022 hackathon.
-- Use Case 1 - 
-- Use Case 2 - 
+
+SPN stands for spending. Our team has created a data DAO that empowers consumers to turn their data, in particular, their credit card transaction data, into assets and have true ownership over their data. DAO members could curate and govern how and when the aggregated data could be used. More importantly, by contributing to an evolving data economy governed by the DAO, members will receive tangible financial rewards whenever their data is accessed and processed. 
+
 
 ## Problem Statement
+
+Our credit card transaction data reveal a lot about our behaviors. Aggregated together, they tell even more powerful stories about the economy. Is there a spike in Netflix subscriptions? Is there a dip in spending at hardware stores? Credit card transaction data is the highest-grossing data source in the “alternative data” market. The global alternative data market size is anticipated to reach 143.31 billion USD by 2030 and is expected to grow at a 54.4% CAGR. North America alone accounted for a revenue share of more than 67.0% in 2021. 
+
+There are more than 400 alternative data providers. Among them are credit card issuers like MasterCard and Visa, institutions like Bloomberg and Goldman Sachs, and numerous analytics firms. These businesses have been monetizing from selling anonymized and aggregated credit card transaction data and analytics services. 
+
+Despite mixed outcomes, hedge funds have spent billions of dollars in acquiring such data with the hope to forecast stock performance more accurately. Google has purchased data from MasterCard, trying to link online ads to store purchases. 
+
 
 ## Our solution
 
