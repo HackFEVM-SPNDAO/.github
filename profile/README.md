@@ -66,7 +66,7 @@ These are the core functionalities of the POC.
 - Deploy Gnosis Safe on FEVM and build out the UI. 
 - Fork the voting contracts from snapshot.org and build on-chain voting on FEVM. 
 - Make the metadata of the membership SBT upgradeable and enable stacking more data contributions from holders. 
-- Leverage confidential computing infrastructure, and set up data warehouse that stores and encrypt the combined data.  
+- Leverage confidential computing infrastructure, and set up data warehouse that stores and encrypts the combined data.  
 
 
 ## Team
