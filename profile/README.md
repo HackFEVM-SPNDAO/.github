@@ -20,13 +20,13 @@ Leveraging web3.0 technologies, SPN DAO makes it possible! Our first product rel
 
 These are the core functionalities of the POC. 
 
-# For consumers/end-users: 
+### For consumers/end-users: 
 
 - If someone opts in to become a DAO member and to contribute to the data economy, they will be able to upload anonymized credit card transaction data as a .csv file, have it encrypted immediately and store the encrypted data on decentralized storage provided by IPFS. 
 - The user will proceed to mint a soul-bound token (SBT). The token is non-transferable and represents provable membership of the DAO. More importantly, IPFS link is tied to the metadata of the SBT. Only a wallet containing the “admin NFT” will be able to decrypt the data. 
 - Any existing DAO members have the option to burn their SBTs if they wish to exit the DAO and stop sharing their data. 
 
-# For the admin of the DAO:
+### For the admin of the DAO:
 
 - The “admin NFT” will be held in a multi-sig wallet. The multi-sig will be jointly managed by the admin and signers elected by DAO members. 
 When the admin connects to the dApp and authenticates ownership of the “admin NFT”, they could unlock the admin portal. 
