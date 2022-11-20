@@ -29,7 +29,7 @@ These are the core functionalities of the POC.
 ### For the admin of the DAO:
 
 - The “admin NFT” will be held in a multi-sig wallet. The multi-sig will be jointly managed by the admin and signers elected by DAO members. 
-When the admin connects to the dApp and authenticates ownership of the “admin NFT”, they could unlock the admin portal. 
+- When the admin connects to the dApp and authenticates ownership of the “admin NFT”, they could unlock the admin portal. 
 - The admin is able to view all the wallet addresses that own the SPN DAO SBT, and initiates decryption of the credit card transaction data tied to a given SBT. 
 - Whenever a decryption is initiated, a payment will be triggered to send rewards in FIL to the holder of a given SBT. 
 
