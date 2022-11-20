@@ -1,4 +1,4 @@
-# Welcome to ZPDAO.
+# Welcome to SPN DAO.
 - ZPDAO - We are building an identity layer for a data DAO leveraging soul-bound tokens, as part of the Hack FEVM 2022 hackathon.
 - Use Case 1 - 
 - Use Case 2 - 
