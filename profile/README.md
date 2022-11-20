@@ -32,10 +32,10 @@
 
 ##  Future Road Maps
 
-## Developers
+## Team
 
-* Jonathan Conn
-* Karen Sheng
-* Ram Vittal
-* Tobias 
-* Yifeng Wang
+* Jonathan Conn: Backend Developer
+* Ram Vittal: Full-stack Developer
+* Tobias Leinss: Full-stack Developer
+* Karen Sheng: Product Manager
+* Yifeng Wang: UX & UI Designer
