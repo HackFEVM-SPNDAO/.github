@@ -35,8 +35,7 @@ These are the core functionalities of the POC.
 
 
 ## How It's Made
-
-### Jon, please fill in some details about the solutions used for encryption/decryption, Pinata gateway and Submarine. Please write full sentences instead of bullet points because it's going to be used in the submission.
+- The dapp utilizes two contracts on Wallaby. The first being a SBT generated from the users provided data. The second being an Admin NFT which allows the decryption of various other SBT's
 
 ###### Architecture
 
