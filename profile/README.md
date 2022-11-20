@@ -35,7 +35,7 @@
 ## Team
 
 * Jonathan Conn: Backend Developer
-* Ram Vittal: Full-stack Developer
+* Ram Vittal Kumar: Full-stack Developer
 * Tobias Leinss: Full-stack Developer
 * Karen Sheng: Product Manager
 * Yifeng Wang: UX & UI Designer
