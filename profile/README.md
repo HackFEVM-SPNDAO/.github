@@ -61,6 +61,14 @@ When the admin connects to the dApp and authenticates ownership of the “admin 
 
 ##  Future Road Maps
 
+- To mitigate the risk of Sybil attacks, we will implement some solutions to enforce ZK proof of personhood. 
+- When threshold cryptography-based encryption solutions (e.g., Lit Protocol, Medusa) begin to support the FEVM chain, we will update the encryption & decryptoin mechanism. 
+- Deploy Gnosis Safe on FEVM and build out the UI. 
+- Fork the voting contracts from snapshot.org and build on-chain voting on FEVM. 
+- Make the metadata of the membership SBT upgradeable and enable stacking more data contributions from holders. 
+- Leverage confidential computing infrastructure, and set up data warehouse that stores and encrypt the combined data.  
+
+
 ## Team
 
 * Jonathan Conn: Backend Developer
