@@ -33,6 +33,11 @@ When the admin connects to the dApp and authenticates ownership of the “admin 
 - The admin is able to view all the wallet addresses that own the SPN DAO SBT, and initiate decryption of the credit card transaction data tied to a given SBT. 
 - Whenever a decryption is initiated, a payment will be triggered to send rewards in FIL to the holder of a given SBT. 
 
+Multiple revenue streams and business models are possible to grow the DAO treasury, which, in turn, could be used to incentivize and reward DAO members. Scale of the data, hence the size of the DAO, matters. As more members contribute their data, analysis of the data will be more robust. Our thesis is that members will willingly contribute their data in exchange for tangible rewards, which is aligned with their interest in the data’s aggregate value and their governing power. 
+
+Members could form investment clubs as sub-DAOs. These sub-DAOs could acquire the rights (possibly at a discount) to processing the combined data with confidential computing. Similar to hedge funds, DAO members could build ML algos, trying to generate “Alpha” (stock investment returns). 
+The DAO could recruit analysts and data scientists as core contributors. These contributors could create analytics reports with the crowd-sourced data and sell these reports to marketers or brands. The DAO may also token-gate these reports and sell the passes as NFTs. 
+With confidential computing enabled, the DAO could sell time-based NFTs as subscriptions and give the clients access to compute over the combined data without compromising the data privacy of individual DAO members. 
 
 ## How It's Made
 
