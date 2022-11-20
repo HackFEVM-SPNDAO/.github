@@ -57,6 +57,7 @@ These are the core functionalities of the POC.
 
 ## Demo URL
 
+https://spend-dao.vercel.app/
 
 ##  Future Road Maps
 
