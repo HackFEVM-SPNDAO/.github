@@ -16,6 +16,24 @@ However, consumers have little control over how and when their personal data, in
 
 ## Our solution
 
+Leveraging web3.0 technologies, SPN DAO makes it possible! Our first product release is a dApp on the FEVM chain that facilitates the creation and operation of a data DAO. 
+
+These are the core functionalities of the POC. 
+
+# For consumers/end-users: 
+
+- If someone opts in to become a DAO member and to contribute to the data economy, they will be able to upload anonymized credit card transaction data as a .csv file, have it encrypted immediately and store the encrypted data on decentralized storage provided by IPFS. 
+- The user will proceed to mint a soul-bound token (SBT). The token is non-transferable and represents provable membership of the DAO. More importantly, IPFS link is tied to the metadata of the SBT. Only a wallet containing the “admin NFT” will be able to decrypt the data. 
+- Any existing DAO members have the option to burn their SBTs if they wish to exit the DAO and stop sharing their data. 
+
+# For the admin of the DAO:
+
+- The “admin NFT” will be held in a multi-sig wallet. The multi-sig will be jointly managed by the admin and signers elected by DAO members. 
+When the admin connects to the dApp and authenticates ownership of the “admin NFT”, they could unlock the admin portal. 
+- The admin is able to view all the wallet addresses that own the SPN DAO SBT, and initiate decryption of the credit card transaction data tied to a given SBT. 
+- Whenever a decryption is initiated, a payment will be triggered to send rewards in FIL to the holder of a given SBT. 
+
+
 ## How It's Made
 
 ###### Architecture
