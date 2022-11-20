@@ -14,7 +14,7 @@ Despite mixed outcomes, hedge funds have spent billions of dollars acquiring suc
 However, consumers have little control over how and when their personal data, including credit card transaction data, is used. Consumers’ personal data fuels a multi-billion dollar industry while they receive almost no financial rewards. In practice, data from a single person is of little value. And there is no marketplace where consumers could coordinate and pool their data together. 
 
 
-## Our solution
+## Our Solution
 
 Leveraging web3.0 technologies, SPN DAO makes it possible! Our first product release is a dApp on the FEVM chain that facilitates the creation and operation of a data DAO. 
 
