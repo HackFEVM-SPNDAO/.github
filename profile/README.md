@@ -35,7 +35,12 @@ These are the core functionalities of the POC.
 
 
 ## How It's Made
-- The dapp utilizes two contracts on Wallaby. The first being a SBT generated from the users provided data. The second being an Admin NFT which allows the decryption of various other SBT's
+
+The dApp utilizes two contracts on Wallaby. The first is an SBT generated from the data that DAO members provide. The second is an admin NFT which allows the decryption of DAO members' SBTs.
+
+When a user uploads anonymized credit card transactions, the information will be encrypted using Lit Protocol (currently support unavailable on Wallaby) and stored on IPFS. As a workaround, we have currently set up a Pinata Submarine gateway that provides the user access to upload files into a private IPFS link using the API keys that are configured inside the dApp. Only the DAO admin has access to decrypting the info uploaded by the user. The user can generate SBTs with the response information from IPFS using the SpendSBT.sol contract deployed on Filecoin Wallaby.
+
+We have token-gated the admin portal by validating the wallets that contain the "admin NFT" minted from SpendAdmin.sol contract. Admin users have access to decrypt the SBTs minted by the user and access the information from Submarine. Every decrypt action by admin users dispatches rewards to the corresponding user that shared the data. Rewards will be based on tFIL.
 
 ###### Architecture
 
