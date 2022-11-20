@@ -49,7 +49,7 @@ These are the core functionalities of the POC.
 - Backend - TypeScript
 - Testnet - Filecoin Wallaby
 - Tools - Hardhat, Remix, Metamask
-- Art Design - Figma
+- UX & UI Design - Figma
 
 ## Related source code repo
 
