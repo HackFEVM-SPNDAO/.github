@@ -20,7 +20,7 @@
 - Backend - TypeScript
 - Testnet - Filecoin Wallaby
 - Tools - Hardhat, Remix, Metamask
-- Art Design - Adobe PhotoShop, Adobe Illustrator
+- Art Design - Figma
 
 ## Related source code repo
 
