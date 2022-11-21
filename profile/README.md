@@ -76,8 +76,8 @@ https://spend-dao.vercel.app/
 
 ## Team
 
-* Jonathan Conn: Backend Developer
-* Ram Vittal Kumar: Full-stack Developer
-* Tobias Leinss: Full-stack Developer
+* Jonathan Conn: Developer
+* Ram Vittal Kumar: Developer
+* Tobias Leinss: Developer
 * Karen Sheng: Product Manager
 * Yifeng Wang: UX & UI Designer
