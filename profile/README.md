@@ -57,8 +57,8 @@ We have token-gated the admin portal by validating the wallets that contain the 
 
 ## Related source code repo
 
-* dApp - https://github.com/zpdao/frontend
-* Smart Contracts - https://github.com/zpdao/core
+* dApp - https://github.com/spndao/frontend
+* Smart Contracts - https://github.com/spndao/core
 
 ## Demo URL
 
