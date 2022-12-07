@@ -11,7 +11,7 @@ There are more than 400 alternative data providers. Among them are credit card i
 
 Despite mixed outcomes, hedge funds have spent billions of dollars acquiring such data with the hope to forecast stock performance more accurately. Google spent millions of dollars purchasing data from MasterCard, trying to link online ads to store purchases. 
 
-However, consumers have little control over how and when their personal data, including credit card transaction data, is used. Consumers’ personal data fuels a multi-billion dollar industry while they receive almost no financial rewards. In practice, data from a single person is of little value. And there is no marketplace where consumers could coordinate and pool their data together. 
+However, consumers have little control over how and when their personal data, including credit card transaction data, is used. Consumers’ personal data fuels a multi-billion dollar industry while they receive almost no financial rewards. In practice, data from a single person is of little value. And there are no platforms where consumers could coordinate and pool their data together. 
 
 
 ## Our Solution
